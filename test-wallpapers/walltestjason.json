@@ -1,0 +1,35 @@
+{
+  "wallpapers": [
+    {
+      "author": "dunnolol",
+      "url": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/auxx.jpg",
+      "name": "auxx",
+      "thumbnail": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/auxx.jpg"
+	  
+    },
+    {
+      "author": "Not Tom Wellington",
+      "url": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/excellence.jpg"
+      "name": "excellence",
+      "thumbnail": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/excellence.jpg"
+    },
+    {
+      "author": "dunnolol",
+      "url": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/heroic.jpg"
+      "name": "heroic",
+      "thumbnail": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/heroic.jpg"
+    },    
+	{
+      "author": "dunnolol",
+      "url": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/honesty.jpg"
+      "name": "honesty",
+      "thumbnail": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/honesty.jpg"
+    },    
+	{
+      "author": "dunnolol",
+      "url": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/induldge.jpg"
+      "name": "induldge",
+      "thumbnail": "https://raw.githubusercontent.com/JWdevZA/ikoon-related/master/test-wallpapers/induldge.jpg"
+    }
+  ]
+}
